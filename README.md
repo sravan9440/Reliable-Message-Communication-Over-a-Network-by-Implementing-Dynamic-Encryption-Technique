@@ -1,0 +1,2 @@
+# Reliable-Message-Communication-Over-a-Network-by-Implementing-Dynamic-Encryption-Technique
+The software aims to help the user in exchanging information across a medium while not being worried of being intercepted by a middle- man, hacker or any third- party service. We have come up with a unique and innovative idea which is based on confusing the hacker about the encryption algorithm used and the decrypting or attacking methods he needs to adopt. T
